@@ -1,0 +1,3 @@
+# Estimating the bit error rate in a communications system
+
+This project explores the use of confidence intervals when estimating the bit-error-rate (BER), or probability of bit error, for a simple digital communications system. More details can be found in `report.pdf`.
